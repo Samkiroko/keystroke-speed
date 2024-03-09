@@ -1,0 +1,50 @@
+Alphanumeric key pressed: h
+Alphanumeric key pressed: f
+Alphanumeric key pressed: g
+Alphanumeric key pressed: f
+Alphanumeric key pressed: f
+Alphanumeric key pressed: g
+Space
+Alphanumeric key pressed: y
+Alphanumeric key pressed: y
+Alphanumeric key pressed: r
+Alphanumeric key pressed: p
+Space
+Command
+Alphanumeric key pressed: s
+Space
+Enter
+Space
+Alphanumeric key pressed: s
+Alphanumeric key pressed: d
+Alphanumeric key pressed: f
+Alphanumeric key pressed: d
+Alphanumeric key pressed: r
+Alphanumeric key pressed: f
+Alphanumeric key pressed: l
+Space
+Special key pressed: Key.shift_r
+Alphanumeric key pressed: d
+Alphanumeric key pressed: f
+Alphanumeric key pressed: f
+Alphanumeric key pressed: d
+Alphanumeric key pressed: f
+Alphanumeric key pressed: l
+Space
+Alphanumeric key pressed: d
+Alphanumeric key pressed: f
+Alphanumeric key pressed: f
+Alphanumeric key pressed: ;
+Space
+Enter
+Control
+Alphanumeric key pressed: z
+Command
+Alphanumeric key pressed: 4
+Control
+Command
+Alphanumeric key pressed: 2
+Control
+Alphanumeric key pressed: 2
+Alphanumeric key pressed: 2
+Alphanumeric key pressed: 2
